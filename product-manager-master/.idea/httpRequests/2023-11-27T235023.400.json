@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-11-27T20:50:23.624+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/books"
+}

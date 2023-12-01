@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2,
+    "isbn": null,
+    "title": null,
+    "genre": null,
+    "description": null,
+    "author": null
+  },
+  {
+    "id": 4,
+    "isbn": null,
+    "title": null,
+    "genre": null,
+    "description": null,
+    "author": null
+  },
+  {
+    "id": 5,
+    "isbn": null,
+    "title": null,
+    "genre": null,
+    "description": null,
+    "author": null
+  },
+  {
+    "id": 6,
+    "isbn": "1234",
+    "title": "Express",
+    "genre": "detective",
+    "description": null,
+    "author": "Agata"
+  },
+  {
+    "id": 7,
+    "isbn": "124",
+    "title": "Eess",
+    "genre": "deteve",
+    "description": null,
+    "author": "Aga"
+  }
+]
